@@ -1,6 +1,6 @@
 <?php 
 
-require __DIR__ . "./classes/Movie.php";
+require __DIR__ . "/classes/Movie.php";
 
 $film1 = new Movie ("Ai confini del male", 101, "DRAMMATICO / THRILLER", 2021, "7.4");
 
